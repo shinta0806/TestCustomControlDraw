@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TestCustomControlDraw (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TestCustomControlDraw (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
